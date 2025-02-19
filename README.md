@@ -1,2 +1,2 @@
-# DevGrade.github.io
-DevGrade Documentation
+# DevGrade Documentation
+
